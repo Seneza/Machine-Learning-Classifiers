@@ -1,7 +1,7 @@
 # Machine-Learning-Classifiers
 
-Machine Learning Classifier. This is a project that aims to implement my own machine learning classifier
-to generally classify the items such as image classification. Features, and labels to classify data. This classifier is a K-Nearest Neighbor, implemented in Python. 
+Machine Learning Classifier. This is an attempt to implement popular, classic or well known machine learning classifiers
+such as image classifier, etc. This starting classifier is a K-Nearest Neighbor, implemented in Python. 
 
 NOTE: Nearest Neighbors: 
 
